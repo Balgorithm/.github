@@ -10,7 +10,7 @@
 | **_🌎김정엽_**                                                                              | **_🌍최성민_**                                     | **_🌏김하연**                                                                              
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------- | 
 | <p align="center"><img src="img/letzgorats_imoz.jpg" height="120" width="120" align-item="center"></p> |  <p align="center"><img src="img/imoz.png" height="120" width="120" align-item="center"></p>                                                  | <p align="center"><img src="img/lhd.jpeg" height="120" width="120" align-item="center"></p> | <p align="center"><img src="img/hhj.jpg" height="120" width="120" align-item="center"></p> |
-| [@letzgorats](https://github.com/letzgorats)                                            | [@choison](https://github.com/choison) | [@kimhayeon00](https://github.com/kimhayeon00)                                              | 
+| [@letzgorats](https://github.com/letzgorats)                                            | [@choisony](https://github.com/choisony) | [@kimhayeon00](https://github.com/kimhayeon00)                                              | 
 
 
 ### 📣 내용 구성
