@@ -34,7 +34,7 @@
 
 | **과목** | **일자** | **주차** | **주제**|
 | ------------- | ---------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------| 
-| 그리디    | 2022/01/17~01/23 | 1주차    | [Greedy_letzgorats](Balgorithm/letzgorats/Greedy/Greedy.md)<br>[Greedy_choison](choison/Greedy/Greedy.md)<br> [Greedy_kimhayeon00](kimhayeon00/Greedy/Greedy.md)<br>|
+| 그리디    | 2022/01/17~01/23 | 1주차    | [Greedy_letzgorats](/letzgorats/Greedy/Greedy.md)<br>[Greedy_choison](choison/Greedy/Greedy.md)<br> [Greedy_kimhayeon00](kimhayeon00/Greedy/Greedy.md)<br>|
 |something | 2022/01/24~01/30 | 2주차 | [DFS_BFS_letzgorats](letzgorats/DFS_BFS/DFS_BFS.md)<br>[DFS_BFS_choison](choison/DFS_BFS/DFS_BFS.md)<br>[DFS_BFS_kimhayeon00](kimhayeon00/DFS_BFS/DFS_BFS.md)<br>|
 | something      | 2022/01/31~02/07 | 3주차   | [Implementation_letzgorats](letzgorats/Implementation/Implementation.md)<br>[Implementation_choison](choison//Implementation/Implementation.md)<br>[Implementation_kimhayeon00](kimhayeon00/Implementation/Implementation.md)<br>|
 <!-- | something      | 2022/02/08~02/14 | 4주차   ||
