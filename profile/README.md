@@ -7,7 +7,7 @@
 
 ### 💫 Contributors
 
-| **_🌎김정엽_**                                                                              | **_🌍최성민_**                                     | **_🌏김하연**                                                                              
+| **_🌎김정엽_**                                                                              | **_🌍최성민_**                                     | **_🌏김하연_**                                                                              
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------- | 
 | <p align="center"><img src="img/letzgorats_imoz.jpg" height="120" width="120" align-item="center"></p> |  <p align="center"><img src="img/sungmin.jpg" height="120" width="120" align-item="center"></p>                                                  | <p align="center"><img src="img/kimhayeon00_imoz.jpg" height="120" width="120" align-item="center"></p> | <p align="center"><img src="img/hhj.jpg" height="120" width="120" align-item="center"></p> |
 | [@letzgorats](https://github.com/letzgorats)                                            | [@choisony](https://github.com/choisony) | [@kimhayeon00](https://github.com/kimhayeon00)                                              | 
